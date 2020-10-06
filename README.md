@@ -1,2 +1,6 @@
 # DSAQuestions
-This repository is a collection of questions which I have learned while learning data structures and algorithms.
+Please contribut code in C++.
+While creating a pull request please ensure that you have provided proper documentation as it makes code easier to debug.
+Please ensure that there are no duplicate codes.
+Please refrain from creating spam PRs.
+Enjoy Open Source contribution!!
