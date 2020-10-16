@@ -24,12 +24,12 @@ dfs(child);}
 }
 int main()
 {
-adj.addedge(0,1);
-adj.addedge(1,3);
-adj.addedge(1,4);
-adj.addedge(3,2);
-adj.addedge(2,4);
-adj.addedge(4,5);
-adj.addedge(2,6);
+addedge(0,1);
+addedge(1,3);
+addedge(1,4);
+addedge(3,2);
+addedge(2,4);
+addedge(4,5);
+addedge(2,6);
 dfs(0);
 }
