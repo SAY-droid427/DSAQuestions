@@ -12,3 +12,4 @@ If you are a complete beginner then this is what you can do to start learning co
 2. Be patient and while your progress might seem to be slow, remember that learning data structures and algorithms can be a very daunting task and it has a steep learning curve.
 3. Practice questions from GeeksForGeeks, Hackerrank and then slowly move onto Codechef. Participate in the Long Challenges.
 
+Learn Data Structures from Geeks For Geeks: https://www.geeksforgeeks.org/data-structures/?ref=shm
