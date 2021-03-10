@@ -22,7 +22,14 @@ A. Learn from Google tech dev guide : https://techdevguide.withgoogle.com/
 B. Learn Data Structures from:
 1. Geeks For Geeks: https://www.geeksforgeeks.org/data-structures/?ref=shm
 2. MyCodeSchool : https://www.youtube.com/user/mycodeschool
+3. FreeCodeCamp: https://www.youtube.com/watch?v=RBSGKlAvoiM&t=8950s
 
 C. Learn Algorithms from:
 1. Geeks for Geeks: https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm
+2. Dynamic Programming Playlist: https://www.youtube.com/playlist?list=PL_z_8CaSLPWfxJPz2-YKqL9gXWdgrhvdn
+
+COURSERA COURSES
+
+1. Data Structures and Algorithms: https://www.coursera.org/specializations/data-structures-algorithms
+
 
