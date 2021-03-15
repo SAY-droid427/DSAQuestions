@@ -1,10 +1,10 @@
-DSA QUESTIONS
+# DSA QUESTIONS
 
-Hello programmers!
+Hello programmers! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi">
 
 This is a repository for data structures and algorithms. This has code in C++ till now. But you can contribute code to this repository in any language you know as long as it is correct and perfectly documented.
 
-ROADMAP FOR LEARNING DATA STRUCTURES
+## ROADMAP FOR LEARNING DATA STRUCTURES 🤔
 
 There is no well set roadmap for learning data structures and algorithms other than hard work, consistency and practice. Since this is a very vast field, therefore, only regular practice can help you become a good programmer.
 If you are a complete beginner then this is what you can do to start learning coding:
@@ -15,7 +15,7 @@ If you are a complete beginner then this is what you can do to start learning co
 4. Learn new concepts and at the same time, practice more questions on the above mentioned sites.
 5. Now as you become more experienced with coding, shift to codeforces and keep onn practising.
 
-RESOURCES
+## RESOURCES 📚
 
 A. Learn from Google tech dev guide : https://techdevguide.withgoogle.com/
 
@@ -23,6 +23,7 @@ B. Learn Data Structures from:
 1. Geeks For Geeks: https://www.geeksforgeeks.org/data-structures/?ref=shm
 2. MyCodeSchool : https://www.youtube.com/user/mycodeschool
 3. FreeCodeCamp: https://www.youtube.com/watch?v=RBSGKlAvoiM&t=8950s
+4. Abdul Bari: https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
 
 C. Learn Algorithms from:
 1. Geeks for Geeks: https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm
