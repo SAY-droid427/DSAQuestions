@@ -1,3 +1,5 @@
+//this is a mark and toys algorithm
+// time complexity: O(n²)
 // including necessary header file
 #include<stdio.h>
 #include<stdlib.h>
