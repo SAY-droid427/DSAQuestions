@@ -1,3 +1,5 @@
+// this is a merge sorting algorithm
+// time complexity: O(n*Log n)
 #include<stdio.h>
 #include<stdlib.h>
 void  merge(int A[],int l,int m,int r)
