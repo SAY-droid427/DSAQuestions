@@ -1,3 +1,5 @@
+// this is a prim's algorithm
+//time complexity: O(ElogV)
 #include<stdio.h>
 #include<stdlib.h>
 struct node
