@@ -1,3 +1,5 @@
+// this is a infix to postfix algorithm 
+// Time complexity: O(N)
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
