@@ -1,6 +1,6 @@
 #Executables
-.exe
-.out
+*.exe
+*.out
 
-#VS Code
-.vscode
+### VisualStudioCode ###
+.vscode/*
