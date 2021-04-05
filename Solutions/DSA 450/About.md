@@ -46,4 +46,4 @@ Folder Structure of Each Topic
     ```
 
 
-Happy Contributing <3
+Happy Contributing 💙
