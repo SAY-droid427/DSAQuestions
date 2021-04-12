@@ -1,4 +1,4 @@
-//Code to print the count of leaf nodes
+//Code to print the count of leaf nodes in a tree
 #include <bits/stdc++.h>
 using namespace std;
 struct Node
