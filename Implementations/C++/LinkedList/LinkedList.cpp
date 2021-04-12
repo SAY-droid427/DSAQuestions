@@ -1,6 +1,7 @@
 /**
   Linked list implementation
  **/
+
 #include<bits/stdc++.h>
 using namespace std;
 struct Node
@@ -8,6 +9,7 @@ struct Node
     int data;
     Node* link;
 };
+
 void insert(Node **head_ref,int in)
 {
     Node *new_node=new Node;
@@ -15,6 +17,7 @@ void insert(Node **head_ref,int in)
     new_node->link=*head_ref;
     *head_ref=new_node;
 }
+
 void printList(Node *root)
 {
     while(root!=NULL)
@@ -23,6 +26,7 @@ void printList(Node *root)
         root=root->link;
     }
 }
+
 void checkPresent(Node *root,int k)
 {
     int flag=1;
@@ -60,5 +64,4 @@ int main()
     int key;
     cin>>key;
     checkPresent(first,key);
-
 }
