@@ -1,4 +1,6 @@
-//Linked list implementation
+/**
+  Linked list implementation
+ **/
 #include<bits/stdc++.h>
 using namespace std;
 struct Node
