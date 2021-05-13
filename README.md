@@ -84,3 +84,14 @@ F. **Online Resources for Implementations**
 - [CP - Algorithms (EMaxx)](https://cp-algorithms.com/)
 - [Algolist](http://algolist.manual.ru/)
 - [TopCoder - CP Oriented Tutorials](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
+
+## CodeHERS
+I feel that coding becomes easier when involved in a community because a community becomes your inspiration and your support as you learn together and improve each day. For this reason, I have created a community "CodeHERS" for girls where they can come together and learn together. They can share their coding journey and inspire other women. This community will have the following features:
+
+  - Teaching Git and Github to beginners
+  - Sharing resources for web development and app development
+  - Competitive coding server for getting started in CP
+  - Show and tell: Where girls will be able to share and showcase the projects they built, the challenges they faced and how they overcame it
+  - Since we are just starting this community, collaborations are welcome and encouraged!
+  - 
+   ###Join the Discord server: https://discord.gg/UVAQdUBy7x today!
