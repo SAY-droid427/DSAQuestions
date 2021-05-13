@@ -96,4 +96,4 @@ I feel that coding becomes easier when involved in a community because a communi
   - Show and tell: Where girls will be able to share and showcase the projects they built, the challenges they faced and how they overcame it
   - Since we are just starting this community, collaborations are welcome and encouraged!
   
-   ###Join the Discord server: https://discord.gg/UVAQdUBy7x today!
+   ### Join the Discord server: https://discord.gg/UVAQdUBy7x today!
