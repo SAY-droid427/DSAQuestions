@@ -84,5 +84,6 @@ F. **Online Resources for Implementations**
 - [CP - Algorithms (EMaxx)](https://cp-algorithms.com/)
 - [Algolist](http://algolist.manual.ru/)
 - [TopCoder - CP Oriented Tutorials](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
+- [Scaler Topics - Data Structures Tutorial](https://www.scaler.com/topics/data-structures/what-is-data-structure/)
 
 
