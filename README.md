@@ -25,6 +25,7 @@ A. **Open Courses to Learn DSA**
 - [MIT OCW Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
 - [NCTU Problem Solving & Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)
 - [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [Data Structure Tutorial](https://www.scaler.com/topics/data-structures/)
 - [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
 - [CodeForces Pilot Course - ITMO](https://codeforces.com/edu/courses)
