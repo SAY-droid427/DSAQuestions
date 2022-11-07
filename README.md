@@ -22,6 +22,7 @@ A. **Open Courses to Learn DSA**
 - [Abdulbari Course (GDrive Link)](https://drive.google.com/drive/u/0/folders/1szZmcER2CjAFbcqCLitTn_4nyv0wxUjn?sort=13&direction=a)
 - [Codemonk By hackerearth](https://www.hackerearth.com/practice/codemonk/)
 - [CodeChef's Indian Programming Camp](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO)
+- [Data Structures and Algorithms Tutorial - Scaler Topics](https://www.scaler.com/topics/data-structures/)
 - [MIT OCW Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
 - [NCTU Problem Solving & Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)
 - [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
